@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+SC:wght@300&family=Edu+VIC+WA+NT+Beginner&family=Montserrat:wght@50000&family=Oswald:wght@200&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+SC:wght@300&family=Edu+VIC+WA+NT+Beginner&family=Montserrat:wght@900&display=swap');
+
+body
+{
+    background-color: #11140a;
+    color:white;
+}
+.logo{
+    position: fixed;
+    left: 50px;
+    top: 30px;
+}
+.navbar{
+   font-family: "Montserrat",sans-serif;
+   font-size:1.5rem;
+}
+.nav-item1{
+    position: fixed;
+    left: 685px;
+    top: 45px; 
+    font-weight: 900;
+}
+.nav-item2{
+    position: fixed;
+    left: 775px;
+    top: 45px;  
+    color:#bebdbd;  
+    font-weight: lighter;
+}
+.nav-item3{
+    position: fixed;
+    left: 865px;
+    top: 45px; 
+    color:#bebdbd; 
+    font-weight: lighter;
+}
+.nav-item4{
+    position: fixed;
+    left: 955px;
+    top: 45px; 
+    color:#bebdbd; 
+    font-weight: lighter;
+}
+.button{
+border:1px solid #A77B06;
+background-color: transparent;
+height: 25px;
+width: 100px;
+border-radius:5px;
+font-size: 1em;
+text-align: center;
+color: #A77B06; 
+position: fixed;
+left: 1150px;
+top: 41px;
+}
+.main{
+    position: fixed;
+    left: 50px;
+    top: 130px; 
+    color:#fff;
+    font-family: 'Oswald', sans-serif;
+    font-size:5rem;   
+    font-weight:1000;
+}
+.paragraph{
+    position: fixed;
+    left: 840px;
+    top: 175px; 
+    color:#bebdbd; 
+    font-size:1.3rem;  
+}
+.image{
+   position:fixed;
+   left:0px;
+   top:420px;
+}
